@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
 this is awkward
-=======
 this is text
->>>>>>> Stashed changes
